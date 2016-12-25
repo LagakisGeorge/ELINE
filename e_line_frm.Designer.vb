@@ -156,7 +156,7 @@
         Me.Location = New System.Drawing.Point(4, 23)
         Me.Name = "Form1"
         Me.RightToLeft = System.Windows.Forms.RightToLeft.No
-        Me.Text = "Form1"
+        Me.Text = "μετατροπή αρχείου σε e-line"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
